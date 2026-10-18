@@ -1,0 +1,7 @@
+streamlit
+anthropic
+pytest
+scikit-learn
+numpy
+web3   # optional: only for anchor_testnet.py
+groq           # optional: only needed if GROQ_API_KEY is configured

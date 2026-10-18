@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "name": "Wise (illustrative)",
+      "flat_fee": 50,
+      "fee_pct": 0.6,
+      "fx_margin_pct": 0.3
+    },
+    {
+      "name": "Bank Wire (illustrative)",
+      "flat_fee": 300,
+      "fee_pct": 0.2,
+      "fx_margin_pct": 2.0
+    },
+    {
+      "name": "Remitly (illustrative)",
+      "flat_fee": 80,
+      "fee_pct": 0.9,
+      "fx_margin_pct": 0.8
+    },
+    {
+      "name": "Western Union (illustrative)",
+      "flat_fee": 120,
+      "fee_pct": 1.2,
+      "fx_margin_pct": 1.5
+    }
+  ]
+}

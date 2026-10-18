@@ -1,0 +1,38 @@
+{
+  "USD": {
+    "USD": 1.0,
+    "THB": 36.2,
+    "BDT": 121.5,
+    "EUR": 0.92,
+    "CNY": 7.12
+  },
+  "THB": {
+    "USD": 0.027624,
+    "THB": 1.0,
+    "BDT": 3.356354,
+    "EUR": 0.025414,
+    "CNY": 0.196685
+  },
+  "BDT": {
+    "USD": 0.00823,
+    "THB": 0.297942,
+    "BDT": 1.0,
+    "EUR": 0.007572,
+    "CNY": 0.058601
+  },
+  "EUR": {
+    "USD": 1.086957,
+    "THB": 39.347826,
+    "BDT": 132.065217,
+    "EUR": 1.0,
+    "CNY": 7.73913
+  },
+  "CNY": {
+    "USD": 0.140449,
+    "THB": 5.08427,
+    "BDT": 17.064607,
+    "EUR": 0.129213,
+    "CNY": 1.0
+  },
+  "_note": "ILLUSTRATIVE sample rates for OFFLINE fallback only; live quotes come from open.er-api.com when reachable."
+}
